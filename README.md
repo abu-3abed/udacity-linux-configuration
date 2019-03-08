@@ -24,6 +24,22 @@ Service Provider: Amazon Web Services (AWS)
 
 hosting type: VPS
 
+Configuration Summary
+---------------------
+1) changed default SSH port to 2200
+
+2) made users login with public key auth only
+
+3) made new user 'grader' with same privileges as root
+
+4) used PostgreSQL to serve project's db instead of sqlite
+
+5) made a new role 'catalog' in PostgreSQL to manage the db instead of superuser 'postgres'
+
+6) made project.py (main project runner) acts as index.html
+
+7) made .git folder hidden to internet users
+
 Third Party Resources
 ---------------------
 1) UNIX and Linux System Administration Handbook, 5th Edition
