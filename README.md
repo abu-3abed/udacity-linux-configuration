@@ -2,9 +2,9 @@
 
 Website info
 ------------
-IP Address: [**18.197.188.214**](18.197.188.214)
+IP Address: [**http://18.197.188.214**](http://18.197.188.214)
 
-Website URL: [**18.197.188.214.xip.io**](18.197.188.214.xip.io)
+Website URL: [**http://18.197.188.214.xip.io**](http://18.197.188.214.xip.io)
 
 SSH port: 2200
 
