@@ -4,6 +4,8 @@ Website info
 ------------
 IP Address: [**18.197.188.214**](18.197.188.214)
 
+Website URL: [**18.197.188.214.xip.io**](18.197.188.214.xip.io)
+
 SSH port: 2200
 
 Software Summary
